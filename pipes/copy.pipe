@@ -1,9 +1,0 @@
-TOKEN "scheduled_copy_t_85c77c9eb3054d478ccaa50d87108344" READ
-
-NODE untitled_pipe_6913_0
-SQL >
-    SELECT * FROM demo_analytics_events_6027
-
-TYPE COPY
-TARGET_DATASOURCE copy_ds
-COPY_SCHEDULE 50 * * * *
