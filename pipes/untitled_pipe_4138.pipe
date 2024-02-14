@@ -1,4 +1,4 @@
-TOKEN "scheduled_copy_t_19c0e9907f834cf8b6767ed3fef44ba5" READ
+TOKEN "scheduled_copy_t_b4c466c6348b4d7881dfccb3c276897e" READ
 
 NODE untitled_pipe_4138_0
 SQL >
@@ -6,4 +6,4 @@ SQL >
 
 TYPE COPY
 TARGET_DATASOURCE copy_untitled_pipe_4138
-COPY_SCHEDULE 2 * * * *
+COPY_SCHEDULE 10 * * * *
