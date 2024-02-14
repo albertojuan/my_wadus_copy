@@ -6,4 +6,4 @@ SQL >
 
 TYPE COPY
 TARGET_DATASOURCE copy_untitled_pipe_4138
-COPY_SCHEDULE 10 * * * *
+COPY_SCHEDULE 1 * * * *
